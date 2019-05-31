@@ -1,0 +1,63 @@
+{
+  "run": [
+    {
+      "filePath": "/nw.epm.refapps.ext.po.apv/webapp/test/unit/unitTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "qunitrunner",
+        "id": 3564944,
+        "displayName": "Run unitTests.qunit.html",
+        "lastRunTimeStamp": 1559319837160
+      }
+    },
+    {
+      "filePath": "/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "sap-ui-xx-lesssupport",
+          "paramValue": "true",
+          "paramActive": true
+        }
+      ],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "fiorirunner",
+        "id": 6415638,
+        "displayName": "Run Component.js",
+        "lastRunTimeStamp": 1559319818619
+      }
+    },
+    {
+      "filePath": "/nw.epm.refapps.ext.po.apv/webapp/test.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8692084,
+        "displayName": "Run test.html",
+        "lastRunTimeStamp": 1559319542253
+      }
+    }
+  ]
+}
